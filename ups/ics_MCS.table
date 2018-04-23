@@ -1,0 +1,8 @@
+setupRequired(ics_mebActor)
+setupRequired(ics_mcsActor)
+setupRequired(ics_actorkeys)
+setupRequired(ics_alertsActor)
+setupRequired(ics_archiver)
+setupRequired(ics_gen2Actor)
+setupRequired(ics_mcsGUI)
+setupRequired(tron_tron)
